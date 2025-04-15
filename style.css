@@ -15,3 +15,10 @@ body {
     font-size: 100px;
     font-weight: bolder;
 }
+
+@media (max-width: 450px) {
+
+    body {
+        font-size: 50px;
+    }
+}
